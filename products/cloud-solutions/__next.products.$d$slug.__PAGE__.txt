@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[78741,["/_next/static/chunks/07e24adbff54913e.js","/_next/static/chunks/336b621774dd273d.js","/_next/static/chunks/ce6d6e872d21876b.js","/_next/static/chunks/e56bfc3234ca8c62.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"UyEGU-fJfbDIabFaZIsnP","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ce6d6e872d21876b.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/e56bfc3234ca8c62.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+3:{"slug":"cloud-solutions"}
+6:null
