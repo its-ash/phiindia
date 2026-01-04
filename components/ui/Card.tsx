@@ -6,6 +6,8 @@ interface CardProps extends React.HTMLAttributes<HTMLDivElement> {
     hoverEffect?: boolean;
 }
 
+
+
 export const Card = React.forwardRef<HTMLDivElement, CardProps>(
     ({ className, hoverEffect = true, children, ...props }, ref) => {
         return (
